@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bugsbeasts.com/about/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bugsbeasts.com/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url>
@@ -18,6 +23,16 @@
   </url>
   
   <url>
+    <loc>https://bugsbeasts.com/post/2021-12-11-my-pets-milkshake/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bugsbeasts.com/tags/milksnake/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bugsbeasts.com/tags/pet/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url>
@@ -28,7 +43,17 @@
   </url>
   
   <url>
+    <loc>https://bugsbeasts.com/tags/reptile/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bugsbeasts.com/tags/rodent/</loc>
+    <lastmod>2021-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bugsbeasts.com/tags/snake/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
   </url>
   
